@@ -1,0 +1,1 @@
+ just  shell basics 
