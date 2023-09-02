@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 #!/bin//bash
-=======
-#!/bin/bash
->>>>>>> b77f4786571fa8551e3a4d44f96c889b0c950f50
 chmod 007 hello
